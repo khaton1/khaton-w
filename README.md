@@ -74,6 +74,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/khaton1/khaton1/output/snake.svg" alt="Snake animation" />
-
 ###
