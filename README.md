@@ -1,153 +1,79 @@
-<!-- Banner Section with Animated GIF -->
-<p align="center">
-  <img src="https://media.wickdev.me/dgyaMlYuzi.jpg" alt="Welcome to my GitHub!" style="width: 100%; max-width: 800px; border-radius: 10px;" />
-</p>
+<h2 align="left">مرحباا قيتهوب انا خاتون !</h2>
 
-<!-- Introduction -->
+###
+
 <div align="center">
-  <h1>👋 Hi there, I'm Wick!</h1>
-  <p>
-    <em>Multilingual Developer | 🛠 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer</em>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=wickstudio&color=brightgreen" alt="Visitors" />
-  </p>
+  <img height="350" src="https://cdn.discordapp.com/attachments/1171509941534732431/1348388311747526706/bc9b42c837e14832.png?ex=67cf47f9&is=67cdf679&hm=8615df8790f6e66ff653cbadc030295b8183b573f448072b9327ec521fd58139&"  />
 </div>
 
-<!-- Languages & Tools -->
+###
+
 <div align="center">
-  <h2>🛠 Languages & Tools</h2>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Shell" title="php" width="50" height="50"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=khaton1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=khaton1&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaton1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&custom_title=Vision%20Art%20Studio%20%C2%A9" height="150" alt="languages graph"  />
 </div>
 
-<!-- About Me -->
+###
+
 <div align="center">
-  <h2>👋 About Me</h2>
-  <p>
-    Hello, I'm Wick CEO of Wick Studio <br/>
-    I speak Arabic, English, and Turkish. <br/><br/>
-    I'm passionate about crafting innovative solutions, safeguarding the digital domain, and contributing to open-source projects. I love diving deep into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
-  </p>
+  <img height="200" src="https://cdn.discordapp.com/attachments/1171509941534732431/1348388661099626586/b6bd4a81369e7eae.png?ex=67cf484c&is=67cdf6cc&hm=58a832d78e5176c3ad24c81ee0867e0be95c6af73a17eb2b8e5ffe80cd8d71c3&"  />
 </div>
 
-<!-- GitHub Trophies -->
+###
+
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=wickstudio&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://profile-counter.glitch.me/khaton1/count.svg?"  />
 </div>
 
-<!-- Social Links -->
-<div align="center">
-  <h2>🔗 Social Links</h2>
-  <p>
-    <a href="https://github.com/wickstudio" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" height="50"/>
-    </a>
-    <a href="https://www.instagram.com/officialwickstudio" target="_blank">
-      <img src="https://media.wickdev.me/11WRKYIET7.png" alt="Instagram" title="Instagram" width="50" height="50"/>
-    </a>
-    <a href="https://www.npmjs.com/~wick_studio" target="_blank">
-      <img src="https://imgur.com/rVt9huZ.png" alt="NPM" title="NPM" width="50" height="50"/>
-    </a>
-    <a href="https://replit.com/@wickstudio" target="_blank">
-      <img src="https://imgur.com/RkgoVR3.png" alt="Replit" title="Replit" width="50" height="50"/>
-    </a>
-    <a href="https://t.me/wickdev" target="_blank">
-      <img src="https://media.wickdev.me/HFrEj3nkpy.png" alt="Telegram" title="Telegram" width="50" height="50"/>
-    </a>
-    <a href="https://x.com/Wick__Studio" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X / Twitter" title="X / Twitter" width="50" height="50"/>
-    </a>
-    <a href="https://www.youtube.com/@wick_studio" target="_blank">
-      <img src="https://imgur.com/uYQleGv.png" alt="YouTube" title="YouTube" width="50" height="50"/>
-    </a>
-    <a href="https://discord.gg/wicks" target="_blank">
-      <img src="https://imgur.com/Qcg8nxa.png" alt="Discord" title="Discord" width="50" height="50"/>
-    </a>
-  </p>
+###
+
+<div align="left">
+  <a href="https://discord.gg/vas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="maybekhaton@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=maybekhaton@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-<!-- Notable Projects -->
-<div align="center">
-  <h2>😎 Notable Projects</h2>
-  <p>
-    <a href="https://github.com/wickstudio/discord-ai-chatbot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord AI Chatbot" />
-    </a>
-    <a href="https://github.com/wickstudio/System-Information">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="System Information" />
-    </a>
-    <a href="https://github.com/wickstudio/Web-Cloner">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Web-Cloner&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Web Cloner" />
-    </a>
-    <a href="https://github.com/wickstudio/IPExplorer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=IPExplorer&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="IPExplorer" />
-    </a>
-    <a href="https://github.com/wickstudio/Discord-Avatar-Decoration-Bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Avatar Decoration Bot" />
-    </a>
-    <a href="https://github.com/wickstudio/cleanup-tool">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
-    </a>
-    <a href="https://github.com/wickstudio/discord-protection-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-protection-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Protection Bot" />
-    </a>
-    <a href="https://github.com/wickstudio/discord-moderator-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Discord Moderator Bot" />
-    </a>
-  </p>
+###
+
+<div align="left">
 </div>
 
-<!-- GitHub Statistics -->
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wickstudio&show_icons=true&theme=radical&count_private=true&hide=contribs&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickstudio&theme=radical&background=30,020614,cfb360&ring=a5a5a5&fire=a5a5a5&currStreakLabel=a5a5a5&sideNums=a5a5a5&currStreakNum=a5a5a5&dates=a5a5a5" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wickstudio&theme=dracula" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wickstudio&theme=dracula" alt="Most Commit Language" />
-  </p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<!-- Current Projects -->
-<div align="center">
-  <h2>🚀 Current Projects</h2>
-  <p>
-    Working on enhancing the wicksbot.com and wick-hosting.
-  </p>
-</div>
+###
 
-<!-- Contact Me -->
-<div align="center">
-  <h2>📫 Contact Me</h2>
-  <p>
-    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>
-  </p>
-</div>
+<img align="right" height="150" src="https://cdn.discordapp.com/avatars/581617415444627477/4c953f4ec1c6546454b3f3ac7aa3b0a8.webp?size=4096"  />
 
-<!-- Footer with Badges -->
-<div align="center" style="margin-top: 50px;">
-  <p>Thanks for visiting my profile! 🚀</p>
-  <p>
-    <a href="https://github.com/wickstudio">
-      <img src="https://img.shields.io/github/followers/wickstudio?label=Follow&style=social" alt="GitHub Follow"/>
-    </a>
-    <a href="https://www.buymeacoffee.com/wickstudio">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
-    </a>
-  </p>
-</div>
+###
+
+<h4 align="left">اسمي خاتون من الاردن وعمري 17 سنة احب التصميم والاكل والنوم .</h4>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/khaton1/khaton1/output/snake.svg" alt="Snake animation" />
+
+###
